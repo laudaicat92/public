@@ -21,4 +21,9 @@
 	<Url name="api_giftcode_submit" data="https://login.muhanoi.info/game/api_giftcode.submit.go" />
 	<Url name="api_info_enter_game" data="https://login.muhanoi.info/game/api_info.enter_game.go" />
 
+	<!-- connect -->
+	<Url name="api_connect_serverlist" data="http://link.mu4d.com/get_url_connect.php?reconnect_server=0" />
+	<Url name="api_connect_reconnect" data="http://link.mu4d.com/get_url_connect.php?reconnect_server=1" />
+
+
 </Urls>
