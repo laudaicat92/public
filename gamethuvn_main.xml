@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<Urls name="GamethuVN_Main">
+	<!-- Update info -->
+	<Url name="update_config" data="http://muplus-update.mu4d.com/ios/version.php" />
+
+	<!-- Open page webview -->
+	<Url name="page_forgot_pass" data="https://login.muhanoi.info/account/otp_tel.shtml" />
+	<Url name="page_create_account" data="https://login.muhanoi.info/account/register.shtml" />
+	<Url name="page_account_manager" data="https://login.muhanoi.info/game/mng_login.shtml" />
+	<Url name="page_topup" data="https://login.muhanoi.info/game/mng_login.shtml?page=topup" />
+	<Url name="page_web_inventory" data="https://login.muhanoi.info/game/mng_login.shtml?page=web_inventory" />
+	<Url name="page_protect_ip" data="https://login.muhanoi.info/game/mng_login.shtml?page=protect_ip" />
+	<Url name="page_login" data="https://login.muhanoi.info/" />
+
+
+	<!-- apis -->
+	<Url name="api_login_auto" data="https://login.muhanoi.info/game/api_login.go" />
+	<Url name="api_pay_allow_pay" data="https://login.muhanoi.info/game/api_pay.allow_pay.go" />
+	<Url name="api_pay_success" data="https://login.muhanoi.info/game/api_pay.success.go" />
+	<Url name="api_giftcode_check" data="https://login.muhanoi.info/game/api_giftcode.check.go" />
+	<Url name="api_giftcode_submit" data="https://login.muhanoi.info/game/api_giftcode.submit.go" />
+	<Url name="api_info_enter_game" data="https://login.muhanoi.info/game/api_info.enter_game.go" />
+
+</Urls>
