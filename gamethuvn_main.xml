@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Urls name="GamethuVN_Main">
 	<!-- Update info -->
-	<Url name="update_config" data="http://muplus-update.mu4d.com/ios/version.php" />
+	<Url name="update_config" data="http://muplus-update.mu4d.com/update_info.php" />
 
 	<!-- Open page webview -->
 	<Url name="page_forgot_pass" data="https://login.muhanoi.info/account/otp_tel.shtml" />
