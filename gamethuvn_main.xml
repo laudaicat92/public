@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Urls name="GamethuVN_Main">
 	<!-- Update info -->
-	<Url name="update_config" data="http://muplus-update.mu4d.com/update_info.php" />
+	<Url name="update_config" data="https://muplus-update.mu4d.com/update_info.php" />
 
 	<!-- Open page webview -->
 	<Url name="page_forgot_pass" data="https://login.muhanoi.info/account/otp_tel.shtml" />
@@ -20,14 +20,17 @@
 	<Url name="api_giftcode_check" data="https://login.muhanoi.info/game/api_giftcode.check.go" />
 	<Url name="api_giftcode_submit" data="https://login.muhanoi.info/game/api_giftcode.submit.go" />
 	<Url name="api_info_enter_game" data="https://login.muhanoi.info/game/api_info.enter_game.go" />
+	<Url name="api_guide" data="https://guide.muhanoi.info/gateway.php" />
 
 	<!-- connect -->
-	<Url name="api_connect_serverlist" data="http://link.mu4d.com/get_url_connect.php?reconnect_server=0" />
-	<Url name="api_connect_reconnect" data="http://link.mu4d.com/get_url_connect.php?reconnect_server=1" />
+	<Url name="api_connect_serverlist" data="https://link.mu4d.com/get_url_connect.php?reconnect_server=0" />
+	<Url name="api_connect_reconnect" data="https://link.mu4d.com/get_url_connect.php?reconnect_server=1" />
 
 
 	<!-- social -->
 	<Url name="button_social_discord" data="https://discord.com/invite/M9vexSHWPW" />
 	<Url name="button_social_zalo" data="https://zalo.me/g/itxdeu497" />
 	<Url name="button_social_facebook" data="https://www.facebook.com/groups/vuongmenh" />
+
+
 </Urls>
