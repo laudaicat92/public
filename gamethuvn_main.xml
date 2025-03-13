@@ -21,6 +21,7 @@
 	<Url name="api_giftcode_submit" data="https://login.muhanoi.info/game/api_giftcode.submit.go" />
 	<Url name="api_info_enter_game" data="https://login.muhanoi.info/game/api_info.enter_game.go" />
 	<Url name="api_guide" data="https://guide.muhanoi.info/gateway.php" />
+	<Url name="api_chat_filter" data="https://link.muhanoi.info/chat_filter.php" />
 
 	<!-- connect -->
 	<Url name="api_connect_serverlist" data="https://link.mu4d.com/get_url_connect.php?reconnect_server=0" />
