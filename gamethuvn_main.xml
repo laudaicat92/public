@@ -15,6 +15,8 @@
 
 	<!-- apis -->
 	<Url name="api_login_auto" data="https://login.muhanoi.info/game/api_login.go" />
+	<Url name="api_login_auto_v2" data="https://login.muhanoi.info/game/api_login.v2.go" />
+	<Url name="api_login_del_acc" data="https://login.muhanoi.info/game/api_login.del_acc.go" />
 	<Url name="api_pay_allow_pay" data="https://login.muhanoi.info/game/api_pay.allow_pay.go" />
 	<Url name="api_pay_success" data="https://login.muhanoi.info/game/api_pay.success.go" />
 	<Url name="api_giftcode_check" data="https://login.muhanoi.info/game/api_giftcode.check.go" />
