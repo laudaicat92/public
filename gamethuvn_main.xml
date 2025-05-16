@@ -14,7 +14,6 @@
 
 
 	<!-- apis -->
-	<Url name="api_login_auto" data="https://login.muhanoi.info/game/api_login.go" />
 	<Url name="api_login_auto_v2" data="https://login.muhanoi.info/game/api_login.v2.go" />
 	<Url name="api_login_del_acc" data="https://login.muhanoi.info/game/api_login.del_acc.go" />
 	<Url name="api_pay_allow_pay" data="https://login.muhanoi.info/game/api_pay.allow_pay.go" />
@@ -24,6 +23,7 @@
 	<Url name="api_info_enter_game" data="https://login.muhanoi.info/game/api_info.enter_game.go" />
 	<Url name="api_guide" data="https://guide.muhanoi.info/gateway.php" />
 	<Url name="api_chat_filter" data="https://link.muhanoi.info/chat_filter.php" />
+	<Url name="api_info_game_urls" data="https://login.muhanoi.info/game/api_info.urls.go" />
 
 	<!-- connect -->
 	<Url name="api_connect_serverlist" data="https://link.mu4d.com/get_url_connect.php?reconnect_server=0" />
